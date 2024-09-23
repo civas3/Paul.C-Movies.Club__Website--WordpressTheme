@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<title><![CDATA[The Shawshank Redemption]]></title>
+		<movietitle><![CDATA[The Shawshank Redemption]]></movietitle>
+		<releaseyear><![CDATA[1994]]></releaseyear>
+		<imdbrating><![CDATA[9.3]]></imdbrating>
+		<totallikes><![CDATA[591]]></totallikes>
+		<posterimage><![CDATA[https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg]]></posterimage>
+		<languages><![CDATA[English,Spanish, French]]></languages>
+	</node>
+</data>
